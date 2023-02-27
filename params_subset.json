@@ -1,0 +1,5 @@
+{"index_db" : "mpa_vJan21_CHOCOPhlAnSGB_202103",
+	"mpa_db" : "s3://singulargenomics1-refdata/genomes/metaphlan4_databases/",
+	"input_fastqs" : "s3://singulargenomicsdata/SingPublic/Microbiome_NIST19/Illumina_Reference/*_{subset1M_R1,subset1M_R2}.fastq.gz",
+	"out" : "mpa4_output/subset_all",
+        "unclassified_estimation" : false}
